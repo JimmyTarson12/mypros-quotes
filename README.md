@@ -6,5 +6,4 @@
 ## Installation
 
 > [!Note]
-> The only way to see this is to run this locally beacuse I have not deoployed this anywhere yet.
-> Maybe in the future I will deploy this to the web.
+> I have not deployed this to the web yet so you will have to run this locally
