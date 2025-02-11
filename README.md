@@ -8,6 +8,8 @@
 > [!Note]
 > I have not deployed this to the web yet so you will have to run this locally
 
+### Using git
+
 First, clone the repository:
 ```bash
 git clone https://github.com/JimmyTarson12/mypros-quotes.git
@@ -24,6 +26,8 @@ Or if your using pnpm:
 ```bash
 pnpm install
 ```
+
+### Using releases
 
 ## Usage
 
