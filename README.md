@@ -20,3 +20,10 @@ Finally, install dependencies:
 ```bash
 npm install
 ```
+
+## Usage
+
+To run it locally first make sure you are in the file and then run:
+```bash
+npm run dev
+```
