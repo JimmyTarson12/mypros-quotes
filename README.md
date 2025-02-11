@@ -49,3 +49,4 @@ Or if your using pnpm:
 ```bash
 pnpm dev
 ```
+The app should now be running on `http://localhost:5173`
