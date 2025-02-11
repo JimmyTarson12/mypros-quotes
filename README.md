@@ -29,7 +29,7 @@ pnpm install
 
 ### Using releases
 
-1. Go to the [Releases](https://www.example.com) tab.
+1. Go to the [Releases](https://github.com/JimmyTarson12/mypros-quotes/releases) tab.
 2. Find the latest build.
 3. Find the file named `mypros-quotesv1.0.0.zip` then download and extract that file.
 4. Inside the file run this command:
