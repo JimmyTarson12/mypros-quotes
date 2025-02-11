@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200">
+  <rect width="600" height="200" fill="#1A1A2E" rx="20"/>
+  <defs>
+    <linearGradient id="quoteGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6"/>
+      <stop offset="100%" style="stop-color:#6366F1"/>
+    </linearGradient>
+  </defs>
+  <path d="M80 50 Q30 50 30 90 L30 170 Q30 210 80 210 L130 210 Q180 210 180 170 L180 90 Q180 50 130 50 Z" 
+        fill="url(#quoteGradient)" 
+        transform="scale(1.2) translate(10, -20)"/>
+  <path d="M80 90 L130 90 L130 130 L80 130 Z" 
+        fill="#1A1A2E"
+        transform="scale(1.2) translate(10, -20)"/>
+  <text x="220" y="115" font-family="Arial, sans-serif" font-size="48" fill="white" font-weight="bold">Mypros Quotes</text>
+</svg>
