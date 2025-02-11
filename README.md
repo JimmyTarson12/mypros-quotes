@@ -29,6 +29,16 @@ pnpm install
 
 ### Using releases
 
+1. Go to the [Releases](https://www.example.com) tab.
+2. Find the latest build.
+3. Find the file named `mypros-quotesv1.0.0.zip` then download and extract that file.
+4. Inside the file run this command:
+```bash
+npm install
+# or if using pnpm
+pnpm install
+```
+
 ## Usage
 
 To run it locally first make sure you are in the file and then run:
